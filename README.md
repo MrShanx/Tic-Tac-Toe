@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Basic TTT game, no levels, no choice of character (X | O) <br/>
-Java Swing technology: <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-JFrame, JLabel, JButtons, JDialogs, Computer 1 Level AI <br/><br/>
+<i>Java Swing technology: <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+JFrame, JLabel, JButtons, JDialogs, Computer 1 Level AI </i><br/><br/>
 
 Player (O) has first move. <br/> <br/>
 AI will execute moves accordingly, with priority to:<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
